@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Layout from './Components/Layout';
-import Home from './Components/home';
+import Home from './Components/Home';
 import Polls from './Containers/Polls';
 import Poll from './Containers/Poll';
 import NewPoll from './Containers/NewPoll';
