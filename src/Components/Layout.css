@@ -1,0 +1,19 @@
+main {
+    width: 90%;
+    border-radius: 2px;
+    background-color: white;
+    display: block;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /*align-items: center;*/
+    margin: auto;
+    padding: 30px;
+    min-height: calc(100vh - 90px);
+    box-sizing: border-box;
+    box-shadow: 0px 7px 59px -5px rgba(0,0,0,0.7);
+}
+footer{
+    background-color: rgb(158, 212, 75);
+    color: white;
+    text-align: center;
+}
